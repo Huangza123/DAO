@@ -1,4 +1,4 @@
-Code for DAO: Delay Adversarial Optimization Gains \textcolor{red}{Domain-invariant Feature} of Neural Networks for Automatic Sleep Staging.
+Code for DAO: Delay Adversarial Optimization Gains Domain-invariant Feature of Neural Networks for Automatic Sleep Staging.
 run DAO/inter_test/train_DAO.py
 
 The MASS dataset can be download at:https://borealisdata.ca/dataset.xhtml?persistentId=doi:10.5683/SP3/9MYUCS
